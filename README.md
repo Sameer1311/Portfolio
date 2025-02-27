@@ -95,8 +95,8 @@ This project is easily deployable on **Vercel**:
 ---
 
 ## 📞 Contact
-📧 **Email:** sameer@example.com  
-🔗 **LinkedIn:** [Sameer](https://linkedin.com/in/sameer)  
+📧 **Email:** negisameer72@gmail.com  
+🔗 **LinkedIn:** [Sameer](https://www.linkedin.com/in/sameer-negi-52a85b336/)  
 📂 **GitHub:** [Sameer1311](https://github.com/Sameer1311)  
 
 ---
